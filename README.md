@@ -38,7 +38,6 @@ By analyzing variables such as sleep hours, screen time, exercise minutes, fatig
 ├── 📄 Report.docx                      ← Full written report
 ├── 🖼️  Poster.pdf                       ← Project poster
 ├── 📽️  Demo Video & PowerPoint          ← https://drive.google.com/drive/folders/1fTi_9Pf6d5dxBzv-rNLRttGry6K6vxi-?usp=drive_link
-├── 📝 Contribution_Sheet                ← Team contributions
 └── 📖 README.md                        ← You are here
 ```
 ```
