@@ -25,7 +25,7 @@ By analyzing variables such as sleep hours, screen time, exercise minutes, fatig
 | H1 | People who exercise ≥ 30 min/day have significantly higher mood scores | Pearson + T-test | ✅ Supported |
 | H2 | People with screen time > 6 hrs/day have significantly lower mood scores | Pearson + T-test | ✅ Supported |
 | H3 | Diet quality significantly affects mood score | One-Way ANOVA | ❌ Not Supported |
-| H4 | People who sleep ≥ 8 hrs/day have significantly lower stress levels | Pearson + T-test | ✅ Supported |
+
 
 ---
 
@@ -37,9 +37,10 @@ By analyzing variables such as sleep hours, screen time, exercise minutes, fatig
 ├── 📊 mental_health_vs_daily_routine.csv  ← Dataset (2,000 records)
 ├── 📄 Report.docx                      ← Full written report
 ├── 🖼️  Poster.pdf                       ← Project poster
-├── 📽️  Demo_Video.mp4                   ← 3-minute demo video
-├── 📝 Contribution_Sheet.xlsx          ← Team contributions
+├── 📽️  Demo Video & PowerPoint          ← https://drive.google.com/drive/folders/1fTi_9Pf6d5dxBzv-rNLRttGry6K6vxi-?usp=drive_link
+├── 📝 Contribution_Sheet                ← Team contributions
 └── 📖 README.md                        ← You are here
+```
 ```
 
 ---
